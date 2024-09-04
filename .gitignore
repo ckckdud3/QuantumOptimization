@@ -1,0 +1,16 @@
+__pycache__
+*.pyc
+*.npy
+*.zip
+testscript.py
+pscompare.py
+dummy.yaml
+assets/data
+assets/data_ps
+assets/pscompare
+assets/pscompare_ref
+assets/data_2qubit
+assets/data_3qubit
+assets/data_4qubit
+Trainer.py
+config.yaml
