@@ -29,8 +29,9 @@ git clone https://github.com/kist-qeg/revised_optimization.git
 pip install -r requirements.txt
 ```
 
-### 3. configure arguments in YAML file (below is an example)
+### 3. configure arguments in YAML file <!--(below is an example)-->
 
+<!--
 ```yaml
 num_qubit: 1            # number of qubits in circuit
 
@@ -53,7 +54,7 @@ patience: 5             # maximum patience limit
 threshold: 1.0e-13      # patience threshold
 
 save_to: 'test.npy'     # file path to save data
-```
+``` -->
 
 ##### Descriptions about arguments
 

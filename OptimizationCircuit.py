@@ -24,7 +24,7 @@ class OptimizationCircuit():
         self.dephase_freq = args.freq
         self.t2 = args.t2
         self.ps_gamma = torch.tensor(args.gamma, dtype = torch.float64, requires_grad = False)
-        self.ratio = 28.024e+9
+        self.ratio = 1.0
 
         self.no_ps = False
 
